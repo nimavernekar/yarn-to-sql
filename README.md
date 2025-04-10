@@ -1,6 +1,7 @@
 # 🧶 SQL JOIN Scarf Project – From Yarn to SQL
 
 This playful project turns complex SQL JOIN concepts into wearable fiber art. Each scarf visualizes a different JOIN type using stripes, colorwork, and intentional "NULL" glitches.
+[Medium](https://medium.com/@nimishavernekar/select-from-scarves-or-where-warmth-true-ca48c7101ed1)
 
 ## 📚 JOIN Types Illustrated
 - INNER JOIN: Only overlap colors where values match
